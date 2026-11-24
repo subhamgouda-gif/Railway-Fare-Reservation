@@ -52,3 +52,7 @@ START -> Read passenger -> Find class and validate
 ```powershell
 python main.py
 ```
+
+## Live Streamlit deployment
+
+https://railway-fare-reservation-abfugneccsuk2wqnenw46d.streamlit.app/
